@@ -67,7 +67,7 @@ Lembre-se também de **não modificar** os describes dos tests na pasta `test`. 
 
 - Projeto individual.
 - Será um dia de projeto.
-- Data de entrega para avaliação final do projeto: `27/09/2021 - 14:00h`.
+- Data de entrega para avaliação final do projeto: `01/10/2021 - 14:00h`.
 
 ---
 
