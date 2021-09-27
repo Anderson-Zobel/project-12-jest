@@ -11,10 +11,10 @@ a função recebe como parâmetro true e false, respectivamente.
 ATENÇÃO!!! Edite apenas este arquivo. Não altere os arquivos da pasta 'src'.
 */
 
-describe('1 - Callback', () => {
-  it('pick up the call', () =>
+describe('1 - O retorno do telefonema', () => {
+  it('atende', () =>
     expect(answerPhone(true)).resolves.toEqual('Oi!'));
 
-  it('busy', () =>
+  it('ocupado', () =>
     expect(answerPhone(false)).rejects.toEqual(new Error('Infelizmente não podemos atender...')));
 });
